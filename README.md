@@ -48,10 +48,10 @@ The app currently supports:
 
 You can edit the available languages.
 
+## 📄 License
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 ## ⚖️ Legal & Attribution
 - **Translation Engine:** This app uses the [MyMemory API](https://mymemory.translated.net). Please respect their usage limits and terms of service.
 - **Privacy:** Voice recognition and text-to-speech are handled by native browser APIs (Web Speech API). No audio data will be store.
 - **Disclaimer:** This project is intended for educational and portfolio purposes.
-
-## 📄 License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
