@@ -40,7 +40,7 @@ To enable the Audio Download feature, ensure you have an API route located at `/
 ```bash
 npm run dev
 ```
-Open (http://localhost:3000)[http://localhost:3000] with your browser to see the result.
+Open `http://localhost:3000` with your browser to see the result.
 
 ## 🌍 Supported Languages
 The app currently supports:
